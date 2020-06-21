@@ -1,0 +1,337 @@
+{
+  "Records": [
+      {
+          "keywords": "Louis Vuitton 'Speedy' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Louis Vuitton 'Onthego' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Louis Vuitton 'Boite Chapeau Souple' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+
+      {
+          "keywords": "Louis Vuitton 'Néonoé' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+
+
+      {
+          "keywords": "Chanel '2.55' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Chanel 'Bowling' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Chanel 'Gabrielle Hobo' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Chanel 'Flap Bag' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Chloé 'Paddington' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Chloé 'Daria' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Chloé 'Darryl' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Chloé 'Tess' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Balenciaga 'Motorcycle' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Balenciaga 'Hourglass small Top Handle' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Balenciaga 'Cloud XS Clutch With Strap' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Balenciaga 'Ghost Medium Shoulder' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Givenchy 'Antigona' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Givenchy 'Mini Mystic Bag' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Givenchy 'Medium ID93' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+      {
+          "keywords": "Givenchy 'Bond Large Shopper' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Céline 'Luggage' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Céline 'Camarat' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Céline 'Triomphe' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Céline 'Medium 16' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+
+            {
+          "keywords": "Fendi 'Baguette' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Fendi 'Peekaboo' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Fendi 'KAN U' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Fendi 'Mon Tresor' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "YSL 'Muse' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "YSL 'Lou Camera' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "YSL 'Sunset' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "YSL 'Niki' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Hermès 'Birkin' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Hermès 'Cinhetic' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Hermès 'Mosaique Au 24' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Hermès 'Evelyne III' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Saddle Bag bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Diorever bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Diorama bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Le 30 bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS_40/images",
+          "download": true
+      }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "Records": [
+      {
+          "keywords": "Louis Vuitton 'Speedy' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Chanel '2.55' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Chloé 'Paddington' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Balenciaga 'Motorcycle' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Givenchy 'Antigona' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Céline 'Luggage' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Fendi 'Baguette' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "YSL 'Muse' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Hermès 'Birkin' bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+              "keywords": "Dior Saddle Bag bag",
+              "limit": 500,
+              "print_urls": true,
+              "chromedriver":"/snap/bin/chromium.chromedriver",
+              "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+              "download": true
+      },
+      {
+          "keywords": "Dior Diorever bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Diorama bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      },
+      {
+          "keywords": "Dior Le 30 bag",
+          "limit": 500,
+          "print_urls": true,
+          "chromedriver":"/snap/bin/chromium.chromedriver",
+          "output_directory":"/mnt/Davros/data/datasets/BAGS/images",
+          "download": true
+      }
+  ]
+}

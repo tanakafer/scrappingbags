@@ -1,0 +1,117 @@
+{
+  "Records": [
+    {
+        "keywords": "Balenciaga \"Cloud XS Clutch With Strap\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Hermès \"Cinhetic\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Dior \"Le 30\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "YSL \"Niki\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Balenciaga \"Ghost Medium Shoulder\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "YSL \"Muse\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Celine \"Camarat\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Celine \"Triomphe\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Givenchy \"Mini Mystic Bag\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Givenchy \"Medium ID93\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+
+    {
+        "keywords": "Givenchy \"Bond Large Shopper\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "YSL \"Sunset\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Hermès \"Mosaique\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    },
+    {
+        "keywords": "Chloé \"Daria\" bag",
+        "limit": 500,
+        "print_urls": true,
+        "chromedriver":"/snap/bin/chromium.chromedriver",
+        "output_directory":"/mnt/Davros/data/datasets/BAGS_40_v2/images",
+        "download": true
+    }
+  ]
+}
